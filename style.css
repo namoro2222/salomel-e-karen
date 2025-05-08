@@ -1,7 +1,7 @@
 /* Estilo base do corpo da página */
 body {
   font-family: 'Arial', sans-serif; /* Fonte mais jovem e divertida */
-  background: linear-gradient(to bottom right, #ffe6f0, #ffd6ec); /* Degradê suave e vibrante */
+  background: linear-gradient(146363deg,  #e383b6, #ffe6f0, #e383b6); /* Degradê suave e vibrante */
   color: #a80050; /* Rosa escuro */
   margin: 0;
   padding: 0;
@@ -11,7 +11,7 @@ body {
 
 /* Cabeçalho com cor vibrante e sombra */
 header {
-  background: linear-gradient(135deg, #ff4da6, #ff85c1); /* Rosa vibrante */
+  background: linear-gradient(0deg, #ff4da6, #ff85c1); /* Rosa vibrante */
   padding: 25px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
   border-radius: 0 0 20px 20px;
